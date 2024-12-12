@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomas Moreno Bauer</h1>
 <h3 align="center">Web Programmer Jr</h3>
 
-📫 How to reach me **morenobauer10@gmail.com**
+📫 **How to reach me:** 
+
+**Email:** [morenobauer10@gmail.com](mailto:morenobauer10@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
