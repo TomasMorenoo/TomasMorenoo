@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Moreno Bauer</h1>
-<h3 align="center">Web Programmer Jr</h3>
+<h3 align="center">Programmer Jr</h3>
 
 📫 **How to reach me:** 
 
