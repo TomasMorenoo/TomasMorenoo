@@ -104,9 +104,9 @@ Aplicación de escritorio en **Python** diseñada para ser portable en distintas
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasMorenoo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMorenoo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fea1idtu5-tomasmorenoos-projects.vercel.app/api?username=TomasMorenoo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br/>
+  <img src="https://github-readme-stats-fea1idtu5-tomasmorenoos-projects.vercel.app/api/top-langs/?username=TomasMorenoo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <br/>
