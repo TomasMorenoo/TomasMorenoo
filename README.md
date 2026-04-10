@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy Tomás Moreno Bauer 👋</h1>
-<h3 align="center">22 años · Estudiante de Programación (UTN) · Soporte IT · Desarrollador Python</h3>
+<h3 align="center">Soporte IT L1/L2 · Estudiante de Programación (UTN) · Desarrollador Python</h3>
 
 <br/>
 
 ## 👤 Sobre mí
 
-Soy una persona tranquila, sociable y con mucha curiosidad. Me gusta aprender cosas nuevas constantemente y aplicar lo que aprendo en proyectos reales. Tengo una mentalidad bastante práctica: cuando veo algo que se puede mejorar o automatizar, me pongo a pensar cómo hacerlo.
+Tengo 22 Años, Soy una persona tranquila, sociable y con mucha curiosidad. Me gusta aprender cosas nuevas constantemente y aplicar lo que aprendo en proyectos reales. Tengo una mentalidad bastante práctica: cuando veo algo que se puede mejorar o automatizar, me pongo a pensar cómo hacerlo.
 
 Como hobby desarrollo aplicaciones para resolver problemas de mi vida diaria o de personas cercanas. No me quedo esperando que alguien me pida hacer algo — si veo una oportunidad de mejorar un proceso, la aprovecho.
 
