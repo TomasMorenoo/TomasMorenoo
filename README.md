@@ -1,29 +1,82 @@
-<h1 align="center">Hi 👋, I'm Tomas Moreno Bauer</h1>
-<h3 align="center">Programmer Jr</h3>
+<h1 align="center">Hola, soy Tomás 👋</h1>
+<h3 align="center">Soporte IT L1/L2 · Estudiante de Programación (UTN) · Desarrollador Python</h3>
 
-📫 **How to reach me:** 
+<br/>
 
-**Email:** [morenobauer10@gmail.com](mailto:morenobauer10@gmail.com)
+## Sobre mí
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tomas moreno bauer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas moreno bauer" height="30" width="40" /></a>
-<a href="https://instagram.com/tomas.morenoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomas.morenoo" height="30" width="40" /></a>
+- 🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la UTN.
+- 🖥️ Trabajo en **soporte técnico IT L1 y L2**, con foco en resolver problemas rápido y trabajar bien en equipo.
+- ⚙️ Soy proactivo por naturaleza: en mis tiempos libres en el trabajo desarrollé herramientas propias de automatización e inventario para mejorar los procesos del día a día.
+- 🤖 Uso **Inteligencia Artificial** como apoyo en mis desarrollos. No lo oculto: creo que saber aprovechar las herramientas modernas es parte de trabajar bien.
+- 🌐 Español nativo · Inglés técnico (documentación sin drama).
+
+<br/>
+
+## 🛠️ Stack Tecnológico
+
+### Desarrollo
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Sistemas e Infraestructura
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Soporte & Redes
+![Soporte IT](https://img.shields.io/badge/Soporte_L1%2FL2-4A90D9?style=for-the-badge&logo=headset&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/LAN%20%2F%20TCP%2FIP-6DB33F?style=for-the-badge&logo=cisco&logoColor=white)
+
+<br/>
+
+## 🚀 Proyectos Destacados
+
+### 📦 Sistema de Gestión de Inventario
+Aplicación de escritorio desarrollada en **Python**, pensada para ser portable y correr en distintas versiones de Windows sin configuraciones complicadas. Nació de una necesidad real en el trabajo.
+
+---
+
+### 🎬 Mobatai Vault
+Biblioteca personal de películas construida con **Python y Flask**, alojada en mi propio VPS. Un proyecto que mezcla lo técnico con lo personal: despliegue real, dominio propio y uso cotidiano.
+
+---
+
+### 📄 Creador de CVs
+Herramienta web hecha con **Python y Flask** para armar currículums de forma simple y rápida. La idea fue resolver un problema concreto con una solución limpia.
+
+---
+
+### 🏊 Dr. Piscinas
+Web app freelance desarrollada para el negocio de mi tío, con **Python y Flask**. Está corriendo en mi VPS bajo mi dominio [zynxia.site](https://zynxia.site). Un proyecto real, con cliente real.
+
+<br/>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-</p>
+<br/>
 
+## 📬 Contacto
+
+¿Querés hablar de un proyecto, una oportunidad o simplemente cruzar ideas? 
+
+- 📧 **Email:** [morenobauer10@gmail.com](mailto:morenobauer10@gmail.com)
+- 🌐 **Portafolio:** [portfolio.mobatai.com](https://portfolio.mobatai.com)
+
+<br/>
+
+---
+
+<p align="center">
+  <i>Hecho con curiosidad, algo de café y sí, también con ayuda de IA. 🤖☕</i>
+</p>
